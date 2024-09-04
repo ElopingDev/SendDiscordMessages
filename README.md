@@ -27,4 +27,7 @@ This is a simple project designed to help understand how to interact with APIs, 
 
 3. **Run the Script**: Execute the script using Python.  
 
-   
+## Credits
+
+- Discord API: [Discord Developer Portal](https://discord.com/developers/docs/intro)
+- User ID Calculation: Special thanks to ChatGPT for assisting with the snowflake timestamp formula.
